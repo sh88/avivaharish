@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: 'Sample User'
+Description: 'Sample User1'
 Metadata:
   'AWS::CloudFormation::Designer':
     05c5d459-669a-43b0-b49a-f03752cd0b00:
